@@ -1,5 +1,7 @@
 # Kubernetes Security Checklist and Requirements
 
+https://www.linkedin.com/posts/dmitriy-chernyak-44666998_kubernetes-security-requirements-check-list-ugcPost-6854331267316559873-2bsj?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. We do not guarantee that it will be completely suitable for your infrastructure, but we hope this checklist can help you include those things that you may have forgotten and left out.
 
 
